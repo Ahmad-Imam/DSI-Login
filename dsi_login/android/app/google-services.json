@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885445342485",
+    "project_id": "dsilogin",
+    "storage_bucket": "dsilogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885445342485:android:023149cfb74b792080251c",
+        "android_client_info": {
+          "package_name": "com.ahmad.dsi_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885445342485-383rcbkfbv10llog0s6e33ar4if0ncu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-NWReONGBdNM09Y4fe9D4HdTd1DPBiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885445342485-383rcbkfbv10llog0s6e33ar4if0ncu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
